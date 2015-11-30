@@ -1,6 +1,7 @@
 {
-  "name" : "thomseddon/oauth2-php",
-  "description" : "CakePHP OAuth2 Server Plugin",
+  "name" : "pedro-lucas/oauth2-php",
+  "description" : "Vendor oauth2-php",
+  "type" : "cakephp-plugin",
   "authors" : [{
       "name" : "Quizlet",
       "homepage" : "http://quizlet.com/",
@@ -33,6 +34,6 @@
     "irc" : "irc://irc.freenode.org/cakephp"
   },
   "extra" : {
-    "installer-name" : "OAuth"
+    "installer-name" : "oauth2-php"
   }
 }
